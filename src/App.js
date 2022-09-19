@@ -4,7 +4,7 @@ import './App.css';
 
 const number = 5555;
 const singer = { name: 'sabbir', job: 'developer' }
-const singer2 = { name: 'nadim', jon: 'student' }
+const singer2 = { name: 'nadim', job: 'student' }
 
 // style liker system 2
 const singerStyle = {
